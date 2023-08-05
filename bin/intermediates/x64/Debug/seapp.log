@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\dev\seepeepee\seapp\src\main.cpp(8,2): error C2664: 'int Loop(int,int (__cdecl *)(void))': cannot convert argument 2 from 'int' to 'int (__cdecl *)(void)'
+E:\dev\seepeepee\seapp\src\main.cpp(8,13): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+E:\dev\seepeepee\seapp\src\fn.h(9,12): message : see declaration of 'Loop'
+E:\dev\seepeepee\seapp\src\main.cpp(8,2): message : while trying to match the argument list '(int, int)'
